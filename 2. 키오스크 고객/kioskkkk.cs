@@ -32,7 +32,7 @@ namespace projectKiosk
         int _port = 3306; //DB 서버 포트
         string _database = "test"; //DB 이름
         string _id = "esoog"; //계정 아이디
-        string _pw = "Goose13579*"; //계정 비밀번호
+        string _pw = "*"; //계정 비밀번호
         string _connectionAddress = "";
 
         // 카드 결제 로직 구현 목적 변수

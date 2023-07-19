@@ -1,7 +1,0 @@
-HTTP 통신
-소켓 통신
-시리얼 통신
-와이파이 통신
-GET/ POST
-RFID
-TCP/IP
