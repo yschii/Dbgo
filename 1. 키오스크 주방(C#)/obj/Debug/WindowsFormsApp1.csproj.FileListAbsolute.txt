@@ -1,0 +1,61 @@
+C:\Users\winst\Documents\GitHub\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\winst\Documents\GitHub\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\winst\Documents\GitHub\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\winst\Documents\GitHub\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\winst\Documents\GitHub\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\winst\Documents\GitHub\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\winst\Documents\GitHub\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\winst\Documents\GitHub\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\winst\Documents\GitHub\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\winst\Documents\GitHub\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\winst\Documents\GitHub\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\winst\Documents\GitHub\키오스크 주방\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\winst\Documents\GitHub\키오스크 주방\bin\Debug\WindowsFormsApp1.exe
+C:\Users\winst\Documents\GitHub\키오스크 주방\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\winst\Documents\GitHub\키오스크 주방\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\winst\Documents\GitHub\키오스크 주방\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\winst\Documents\GitHub\키오스크 주방\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\winst\Documents\GitHub\키오스크 주방\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\winst\Documents\GitHub\키오스크 주방\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\winst\Documents\GitHub\키오스크 주방\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\winst\Documents\GitHub\키오스크 주방\obj\Debug\WindowsFormsApp1.exe
+C:\Users\winst\Documents\GitHub\키오스크 주방\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\winst\Documents\project\Dbgo\2. 키오스크 주방\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\winst\Documents\project\Dbgo\2. 키오스크 주방\bin\Debug\WindowsFormsApp1.exe
+C:\Users\winst\Documents\project\Dbgo\2. 키오스크 주방\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\winst\Documents\project\Dbgo\2. 키오스크 주방\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\winst\Documents\project\Dbgo\2. 키오스크 주방\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\winst\Documents\project\Dbgo\2. 키오스크 주방\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\winst\Documents\project\Dbgo\2. 키오스크 주방\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\winst\Documents\project\Dbgo\2. 키오스크 주방\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\winst\Documents\project\Dbgo\2. 키오스크 주방\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\winst\Documents\project\Dbgo\2. 키오스크 주방\obj\Debug\WindowsFormsApp1.exe
+C:\Users\winst\Documents\project\Dbgo\2. 키오스크 주방\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\winst\Documents\project\Dbgo\1. 키오스크 주방(서버)\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\winst\Documents\project\Dbgo\1. 키오스크 주방(서버)\bin\Debug\WindowsFormsApp1.exe
+C:\Users\winst\Documents\project\Dbgo\1. 키오스크 주방(서버)\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\winst\Documents\project\Dbgo\1. 키오스크 주방(서버)\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\winst\Documents\project\Dbgo\1. 키오스크 주방(서버)\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\winst\Documents\project\Dbgo\1. 키오스크 주방(서버)\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\winst\Documents\project\Dbgo\1. 키오스크 주방(서버)\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\winst\Documents\project\Dbgo\1. 키오스크 주방(서버)\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\winst\Documents\project\Dbgo\1. 키오스크 주방(서버)\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\winst\Documents\project\Dbgo\1. 키오스크 주방(서버)\obj\Debug\WindowsFormsApp1.exe
+C:\Users\winst\Documents\project\Dbgo\1. 키오스크 주방(서버)\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\winst\Documents\project\Dbgo\1. 키오스크 주방(서버)\bin\Debug\Open.Nat.dll
+C:\Users\winst\Documents\project\Dbgo\1. 키오스크 주방(서버)\bin\Debug\Open.Nat.xml
+C:\Users\winst\Documents\project\Dbgo\1. 키오스크 주방(서버)\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\winst\Documents\project\Dbgo\1. 키오스크 주방(C#)\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\winst\Documents\project\Dbgo\1. 키오스크 주방(C#)\bin\Debug\WindowsFormsApp1.exe
+C:\Users\winst\Documents\project\Dbgo\1. 키오스크 주방(C#)\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\winst\Documents\project\Dbgo\1. 키오스크 주방(C#)\bin\Debug\Open.Nat.dll
+C:\Users\winst\Documents\project\Dbgo\1. 키오스크 주방(C#)\bin\Debug\Open.Nat.xml
+C:\Users\winst\Documents\project\Dbgo\1. 키오스크 주방(C#)\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\winst\Documents\project\Dbgo\1. 키오스크 주방(C#)\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\winst\Documents\project\Dbgo\1. 키오스크 주방(C#)\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\winst\Documents\project\Dbgo\1. 키오스크 주방(C#)\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\winst\Documents\project\Dbgo\1. 키오스크 주방(C#)\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\winst\Documents\project\Dbgo\1. 키오스크 주방(C#)\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\winst\Documents\project\Dbgo\1. 키오스크 주방(C#)\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\winst\Documents\project\Dbgo\1. 키오스크 주방(C#)\obj\Debug\WindowsFormsApp1.exe
+C:\Users\winst\Documents\project\Dbgo\1. 키오스크 주방(C#)\obj\Debug\WindowsFormsApp1.pdb
