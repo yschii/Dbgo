@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body{
+    margin: 150px 20px 20px 20px;
+    background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+}
+
+body img{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 70px;
+    height: 70px;
+}
+
+.boxer{
+    border-radius: 20px;
+    width: 75vw;
+    background-color: white;
+    margin: auto;
+}
+.boxer p{
+    margin: auto;
+    text-align: center;
+    color: salmon;
+    font-weight: bold;
+    width: 50vw;
+}
+
+/* 테이블 스타일 지정 */
+.exel {
+    display: table;
+    width: 70vw;
+    border-collapse: collapse;
+    border-radius: 20px;
+    background-color: white;
+    margin: auto;
+}
+.exel h2{
+    border-top: 1px dashed   cornflowerblue;
+    margin: 70px 10px 20px 10px;
+    padding-top: 5px;
+}
+.exel tr {
+    display: table-row;
+}
+.exel td {
+    display: table-cell;
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+    width: 100px;
+}
+
+.logMap{
+    border: 1px solid   red;
+}

@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body{
+    background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+    width: 100vw;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+body img{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 70px;
+    height: 70px;
+}
+
+.informBox{
+    text-align: center;
+    font-size: large;
+    width: 380px; /* 3.370인치 * 96px/inch ≈ 322.56px */
+    height: 250px; /* 2.125인치 * 96px/inch ≈ 204.48px */
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-image: linear-gradient(to top, lightgrey 0%, lightgrey 1%, #e0e0e0 26%, #efefef 48%, #d9d9d9 75%, #bcbcbc 100%);
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.informBox span{
+    margin: 5px;
+}
+.informBox .nuid{
+    font-size: 1.2em;
+    font-weight: bold;
+}
+.informBox .name{
+    font-weight: bold;
+    color: lightseagreen;
+}
+.informBox .point{
+    font-weight: bold;
+    color: lightcoral;
+}
+
+.fixBox{
+    width: 100vw;
+    text-align: center;
+    top: 9px;
+    right: 9px;
+}
+.fixBox .psw1{
+    color: red;
+}
+.fixBox h2{
+    width: 100%;
+    margin: 5px;
+}
+.fixBox #address{
+    width: 50%;
+}
+.fixBox input{
+    background-color: white;
+    border-radius: 5px;
+    border: none;
+    height: 23px;
+    opacity: 0.7;
+    margin: 5px;
+}
+.fixBox button{
+    cursor: pointer;
+    font-size: large;
+    border: none;
+    border-radius: 5px;
+    background-color: black;
+    padding: 2px 10px;
+    color: white;
+    margin: 10px 0;
+}

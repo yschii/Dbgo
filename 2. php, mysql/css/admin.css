@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body{
+    background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column-reverse;
+}
+
+body img{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 70px;
+    height: 70px;
+}
+
+.searchBox {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    text-align: center;
+    font-size: large;
+    color: lightslategray    ;
+}
+.searchBox button{
+    cursor: pointer;
+    font-size: large;
+    border: none;
+    border-radius: 5px;
+    background-color: black;
+    padding: 2px 10px;
+    color: white;
+}
+.searchBox input{
+    background-color: white;
+    border-radius: 5px;
+    border: none;
+    height: 23px;
+    opacity: 0.7;
+    margin: 5px;
+}
+
+.lastIdBox{
+    font-size: 1.2em;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.head {
+    color: cornflowerblue;
+    text-align: center;
+    margin: 170px 0 10px 0;
+    font-size: 2em;
+}
+
+.title{
+    width: 380px;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+
+.table {
+    background-image: linear-gradient(to top, lightgrey 0%, lightgrey 1%, #e0e0e0 26%, #efefef 48%, #d9d9d9 75%, #bcbcbc 100%);
+    border-radius: 20px;
+    width: 380px; /* 3.370인치 * 96px/inch ≈ 322.56px */
+    height: 250px; /* 2.125인치 * 96px/inch ≈ 204.48px */
+    margin: 5px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    word-wrap: break-word;
+    /* 긴단어 줄 바꿈 */
+}
+.table .id{
+    width: 60px;
+    color: lightcoral;
+}
+.table .nuid{
+    font-size: 1.1em;
+    font-weight: bold;
+    width: 85px;
+    border-right: 1px   dashed  grey;
+    border-left: 1px   dashed  grey;
+}
+.table .name{
+    font-weight: bold;
+    width: 75px;
+    color: lightseagreen;
+}
+.table .phone{
+    width: 70px;
+    border-right: 1px   dashed  grey;
+    border-left: 1px   dashed  grey;
+}
+.table .enroll{
+    width: 75px;
+}

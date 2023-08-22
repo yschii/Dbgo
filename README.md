@@ -8,11 +8,11 @@ webserver: www.poderoser.com
 mysql
 
 host: mysql.caf3ckeqkfac.ap-southeast-2.rds.amazonaws.com
-user: esoog
-psw: G**********
 
 
 
+
+날짜시간로직
 
 HTTP 통신
 소켓 통신
@@ -25,6 +25,15 @@ TCP/IP
 Thread
 제네릭
 예외처리
-Invoke
+
+NetworkStream stream = client.GetStream();
+byte[] buffer = Encoding.UTF8.GetBytes(" " + sb.ToString());
+stream.Write(buffer, 0, buffer.Length);
+
+
+Invoke((Action)(() =>
+{
+lbStatus.Text = "연결중...";
+}));
 
 
