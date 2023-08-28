@@ -14,7 +14,7 @@ MFRC522 rfid(SS_PIN, RST_PIN); // MFRC522 인스턴스 생성
 MFRC522::MIFARE_Key key;
 
 const char* ssid = "LGU+_POLY";
-const char* password = "@Polytech";
+const char* password = "";
 const char* host = "www.poderoser.com";
 int port = 80;
 

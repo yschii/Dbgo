@@ -31,7 +31,7 @@
 
             // mysql 연동 위한 host, user, password, dbName 변수 설정.
             $host = 'mysql.caf3ckeqkfac.ap-southeast-2.rds.amazonaws.com';
-            $user = 'esoog';
+            $user = '';
             $pw = '';
             $dbName = 'test';
             $mysqli = new mysqli($host, $user, $pw, $dbName);

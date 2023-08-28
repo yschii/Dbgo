@@ -12,7 +12,7 @@
 
     <?php
         $host = 'mysql.caf3ckeqkfac.ap-southeast-2.rds.amazonaws.com';
-        $user = 'esoog';
+        $user = '';
         $pw = '';
         $dbName = 'test';
         $mysqli = new mysqli($host, $user, $pw, $dbName);

@@ -31,7 +31,7 @@ namespace projectKiosk
         //DB 서버 주소, 로컬일 경우 localhost
         int _port = 3306; //DB 서버 포트
         string _database = "test"; //DB 이름
-        string _id = "esoog"; //계정 아이디
+        string _id = ""; //계정 아이디
         string _pw = ""; //계정 비밀번호
         string _connectionAddress = "";
 
