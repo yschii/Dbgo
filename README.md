@@ -1,20 +1,5 @@
 # Dbgo
+# RFID 아두이노 웹HTTP통신
+# php mysql연동사용 
  
-webserver: www.poderoser.com
-
-
-mysql
-host: mysql.caf3ckeqkfac.ap-southeast-2.rds.amazonaws.com
-
-
-NetworkStream stream = client.GetStream();
-byte[] buffer = Encoding.UTF8.GetBytes(" " + sb.ToString());
-stream.Write(buffer, 0, buffer.Length);
-
-
-Invoke((Action)(() =>
-{
-lbStatus.Text = "연결중...";
-}));
-
-
+http://www.poderoser.com/theme/company/dbgo/main.php
