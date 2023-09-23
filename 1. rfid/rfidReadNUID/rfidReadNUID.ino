@@ -1,3 +1,5 @@
+#include <SPI.h>
+
 // rst=D3/ ss(sda)=D8/ sck=D5/ mosi=D7/ miso=D6
 // WeMos D1(Retired)
 // 변수 및 함수 지정 후 setup(), loop()문
