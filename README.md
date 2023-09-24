@@ -48,14 +48,17 @@
 
 ### 4.2. 아두이노 RFID모듈을 통한 카드 인식 및 http 통신으로 데이터 보내기기
 ![image](https://github.com/yschii/Dbgo/assets/135096712/e2e20e66-99e8-4717-9d8f-c1cbef86f6ae)
+https://github.com/yschii/Dbgo/blob/main/1.%20rfid/memberCard_register/memberCard_register.ino
 
 
 ### 4.3. Php 서버 사이드 측에서 데이터 로직 구현 및 DB에 데이터 저장
 ![image](https://github.com/yschii/Dbgo/assets/135096712/856d5496-187c-497d-abd6-56d12991de57)
+https://github.com/yschii/Dbgo/blob/main/2.%20php%2C%20mysql/register.php
 
 
 ### 4.4. Web에서 데이터 출력
 ![image](https://github.com/yschii/Dbgo/assets/135096712/6a8972d2-6544-494d-bb4b-c6666b758e14)
+https://github.com/yschii/Dbgo/blob/main/2.%20php%2C%20mysql/admin.php
 
 
 ### 4.5. 실시간 태그 인식으로 DB 구축
@@ -77,21 +80,20 @@
 <summary><b>확장 기능 설명 펼치기</b></summary>
 <div markdown="1">
 
+
 ### 5.1. TCP/IP통신 활용한 윈도우 프로그램 서버 생성
 ![image](https://github.com/yschii/Dbgo/assets/135096712/15b59ec3-3973-4c70-bc25-4a524ba13308)
+https://github.com/yschii/Dbgo/blob/main/3.%20%ED%99%95%EC%9E%A51(%ED%8F%AC%EC%9D%B8%ED%8A%B8%20%EC%A0%9C%EB%8F%84%20%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC)/1.%20%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC%20%EC%A3%BC%EB%B0%A9(%EC%84%9C%EB%B2%84)/Form1.cs
+
 
 ### 5.2. 시리얼통신으로 아두이노와 연결. TCP/IP통신으로 윈도우 프로그램 서버와 연결. Mysql DB연동 클라이언트 생성
 ![image](https://github.com/yschii/Dbgo/assets/135096712/3ba0dd06-4148-447e-bd77-71835a4eb37c)
+https://github.com/yschii/Dbgo/blob/main/3.%20%ED%99%95%EC%9E%A51(%ED%8F%AC%EC%9D%B8%ED%8A%B8%20%EC%A0%9C%EB%8F%84%20%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC)/2.%20%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC%20%EA%B3%A0%EA%B0%9D/kioskkkk.cs
+
 
 ### 5.3. 알림판 뷰어 생성 및 데이터 출력
 ![image](https://github.com/yschii/Dbgo/assets/135096712/c21903bd-8d59-4879-9f0a-92009270fb3d)
-코드: https://github.com/yschii/Dbgo/blob/main/3.%20%ED%99%95%EC%9E%A51(%ED%8F%AC%EC%9D%B8%ED%8A%B8%20%EC%A0%9C%EB%8F%84%20%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC)/3.%20%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC%20%EC%95%8C%EB%A6%BC%ED%8C%90/Form1.cs
-
-
-
-
-
-
+https://github.com/yschii/Dbgo/blob/main/3.%20%ED%99%95%EC%9E%A51(%ED%8F%AC%EC%9D%B8%ED%8A%B8%20%EC%A0%9C%EB%8F%84%20%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC)/3.%20%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC%20%EC%95%8C%EB%A6%BC%ED%8C%90/Form1.cs
 
 </div>
 </details>
@@ -102,9 +104,10 @@
 
 
 ## 5. 핵심 트러블 슈팅
-### 5.1. 컨텐츠 필터와 페이징 처리 문제
-- 저는 이 서비스가 페이스북이나 인스타그램 처럼 가볍게, 자주 사용되길 바라는 마음으로 개발했습니다.  
-때문에 페이징 처리도 무한 스크롤을 적용했습니다.
+### 5.1. 방향성
+- 원래는 RFID 카드 시스템으로 포인트 시스템을 만들어, 키오스크를 제작하고자 프로젝트를 시작하게 되었습니다.
+하지만, 윈도우 프로그램만 사용하는 것 보다 범용적으로 확장시켜 사용할 수 있게 하기 위해
+웹까지 접목 시키게 되었습니다.
 
 - 하지만 [무한스크롤, 페이징 혹은 “더보기” 버튼? 어떤 걸 써야할까](https://cyberx.tistory.com/82) 라는 글을 읽고 무한 스크롤의 단점들을 알게 되었고,  
 다양한 기준(카테고리, 사용자, 등록일, 인기도)의 게시물 필터 기능을 넣어서 이를 보완하고자 했습니다.
@@ -113,88 +116,16 @@
 필터링 된 게시물들만 DB에 요청해야 하기 때문에 아래의 **기존 코드** 처럼 각 필터별로 다른 Query를 날려야 했습니다.
 
 <details>
-<summary><b>기존 코드</b></summary>
+<summary><b>코드</b></summary>
 <div markdown="1">
 
 ~~~java
-/**
- * 게시물 Top10 (기준: 댓글 수 + 좋아요 수)
- * @return 인기순 상위 10개 게시물
- */
-public Page<PostResponseDto> listTopTen() {
 
-    PageRequest pageRequest = PageRequest.of(0, 10, Sort.Direction.DESC, "rankPoint", "likeCnt");
-    return postRepository.findAll(pageRequest).map(PostResponseDto::new);
-}
-
-/**
- * 게시물 필터 (Tag Name)
- * @param tagName 게시물 박스에서 클릭한 태그 이름
- * @param pageable 페이징 처리를 위한 객체
- * @return 해당 태그가 포함된 게시물 목록
- */
-public Page<PostResponseDto> listFilteredByTagName(String tagName, Pageable pageable) {
-
-    return postRepository.findAllByTagName(tagName, pageable).map(PostResponseDto::new);
-}
-
-// ... 게시물 필터 (Member) 생략 
-
-/**
- * 게시물 필터 (Date)
- * @param createdDate 게시물 박스에서 클릭한 날짜
- * @return 해당 날짜에 등록된 게시물 목록
- */
-public List<PostResponseDto> listFilteredByDate(String createdDate) {
-
-    // 등록일 00시부터 24시까지
-    LocalDateTime start = LocalDateTime.of(LocalDate.parse(createdDate), LocalTime.MIN);
-    LocalDateTime end = LocalDateTime.of(LocalDate.parse(createdDate), LocalTime.MAX);
-
-    return postRepository
-                    .findAllByCreatedAtBetween(start, end)
-                    .stream()
-                    .map(PostResponseDto::new)
-                    .collect(Collectors.toList());
-    }
 ~~~
 
 </div>
 </details>
 
-- 이 때 카테고리(tag)로 게시물을 필터링 하는 경우,  
-각 게시물은 최대 3개까지의 카테고리(tag)를 가질 수 있어 해당 카테고리를 포함하는 모든 게시물을 질의해야 했기 때문에  
-- 아래 **개선된 코드**와 같이 QueryDSL을 사용하여 다소 복잡한 Query를 작성하면서도 페이징 처리를 할 수 있었습니다.
-
-<details>
-<summary><b>개선된 코드</b></summary>
-<div markdown="1">
-
-~~~java
-/**
- * 게시물 필터 (Tag Name)
- */
-@Override
-public Page<Post> findAllByTagName(String tagName, Pageable pageable) {
-
-    QueryResults<Post> results = queryFactory
-            .selectFrom(post)
-            .innerJoin(postTag)
-                .on(post.idx.eq(postTag.post.idx))
-            .innerJoin(tag)
-                .on(tag.idx.eq(postTag.tag.idx))
-            .where(tag.name.eq(tagName))
-            .orderBy(post.idx.desc())
-                .limit(pageable.getPageSize())
-                .offset(pageable.getOffset())
-            .fetchResults();
-
-    return new PageImpl<>(results.getResults(), pageable, results.getTotal());
-}
-~~~
-
-</div>
-</details>
 
 </br>
 
