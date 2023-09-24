@@ -60,6 +60,10 @@
 
 ### 4.5. 실시간 태그 인식으로 DB 구축
 ![image](https://github.com/yschii/Dbgo/assets/135096712/18889fb5-de78-45a5-9986-bf198cbd6769)
+</div>
+</details>
+
+</br>
 
 
 
@@ -75,6 +79,14 @@
 
 ### 4.1. 전체 흐름
 ![image](https://github.com/yschii/Dbgo/assets/135096712/1c501ce6-45a2-425e-b130-891fed9a3030)
+
+
+</div>
+</details>
+
+</br>
+
+
 
 
 ## 5. 핵심 트러블 슈팅
