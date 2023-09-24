@@ -1,5 +1,6 @@
-# Dbgo
-
+# :pushpin: Dbgo
+>실시간 DB처리를 활용한 출결관리 시스템
+>http://www.poderoser.com/theme/company/dbgo/main.php
 </br>
 
 ## :pushpin: Contact
@@ -7,11 +8,6 @@
 - 블로그: https://esoog.tistory.com
 - 깃헙: https://github.com/yschii
 
-</br>
-
-# :pushpin: Dbgo
->실시간 DB처리를 활용한 출결관리 시스템
->http://www.poderoser.com/theme/company/dbgo/main.php
 </br>
 
 ## 1. 제작 기간 & 참여 인원
