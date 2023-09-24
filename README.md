@@ -77,8 +77,20 @@
 <summary><b>확장 기능 설명 펼치기</b></summary>
 <div markdown="1">
 
-### 4.1. 전체 흐름
-![image](https://github.com/yschii/Dbgo/assets/135096712/1c501ce6-45a2-425e-b130-891fed9a3030)
+### 5.1. TCP/IP통신 활용한 윈도우 프로그램 서버 생성
+![image](https://github.com/yschii/Dbgo/assets/135096712/15b59ec3-3973-4c70-bc25-4a524ba13308)
+
+### 5.2. 시리얼통신으로 아두이노와 연결. TCP/IP통신으로 윈도우 프로그램 서버와 연결. Mysql DB연동 클라이언트 생성
+![image](https://github.com/yschii/Dbgo/assets/135096712/3ba0dd06-4148-447e-bd77-71835a4eb37c)
+
+### 5.3. 알림판 뷰어 생성 및 데이터 출력
+![image](https://github.com/yschii/Dbgo/assets/135096712/c21903bd-8d59-4879-9f0a-92009270fb3d)
+코드: https://github.com/yschii/Dbgo/blob/main/3.%20%ED%99%95%EC%9E%A51(%ED%8F%AC%EC%9D%B8%ED%8A%B8%20%EC%A0%9C%EB%8F%84%20%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC)/3.%20%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC%20%EC%95%8C%EB%A6%BC%ED%8C%90/Form1.cs
+
+
+
+
+
 
 
 </div>
