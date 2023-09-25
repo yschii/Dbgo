@@ -46,7 +46,7 @@ void sendPostRequest(String path, String data) {
     Serial.println("Connection failed");
   }
 }
-
+S
 void registerCard(String cardNumber) {
   // 카드 정보 출력. post형식으로 사용하기 위해 함수로 한 번 더 감쌌다.
   printCardInfo(cardNumber);
