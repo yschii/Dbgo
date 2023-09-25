@@ -116,6 +116,7 @@ https://github.com/yschii/Dbgo/blob/main/3.%20%ED%99%95%EC%9E%A51(%ED%8F%AC%EC%9
 ### 6.2. 원격 DB 구축
 - 내부망을 사용하는 환경에서 원격 DB를 구축하기 위해 RDS 서비스를 구매하여 사용.
 - https://github.com/yschii/Dbgo/blob/main/2.%20php%2C%20mysql/logs.php
+- https://aws.amazon.com/ko/rds/
 
 
 
@@ -123,5 +124,8 @@ https://github.com/yschii/Dbgo/blob/main/3.%20%ED%99%95%EC%9E%A51(%ED%8F%AC%EC%9
 
 
 
-## 6. 회고 / 느낀점
-- 
+## 6. 회고 
+- HTTP통신 GET과 POST 메서드 활용: https://esoog.tistory.com/entry/get-post-%EB%B0%A9%EC%8B%9D
+- PHP mysql 연동과 시큐리티 사용: https://github.com/yschii/Dbgo/blob/main/2.%20php%2C%20mysql/update.php
+- C# TCP/IP 통신과 데이터 스트림 사용: https://github.com/yschii/Dbgo/blob/main/3.%20%ED%99%95%EC%9E%A51(%ED%8F%AC%EC%9D%B8%ED%8A%B8%20%EC%A0%9C%EB%8F%84%20%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC)/3.%20%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC%20%EC%95%8C%EB%A6%BC%ED%8C%90/Form1.cs
+- C# 스레드에 관한 고찰: https://esoog.tistory.com/entry/C-%EC%8A%A4%EB%A0%88%EB%93%9CThread
