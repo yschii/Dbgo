@@ -57,11 +57,14 @@ trial > 실행프로그램 테스트
 
 ### 4.1. 전체 흐름
 ![image](https://github.com/yschii/Dbgo/assets/135096712/1c501ce6-45a2-425e-b130-891fed9a3030)
+* rds 사용료 부담으로 로컬 mysql로 변경 사용
+
 
 
 ### 4.2. 아두이노 RFID모듈을 통한 카드 인식 및 http 통신으로 데이터 보내기기
 ![image](https://github.com/yschii/Dbgo/assets/135096712/e2e20e66-99e8-4717-9d8f-c1cbef86f6ae)
 https://github.com/yschii/Dbgo/blob/main/1.%20rfid/memberCard_register/memberCard_register.ino
+
 
 
 ### 4.3. Php 서버 사이드 측에서 데이터 로직 구현 및 DB에 데이터 저장
