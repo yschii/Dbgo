@@ -100,8 +100,8 @@ https://github.com/yschii/Dbgo/blob/main/2.%20php%2C%20mysql/admin.php
 
 
 ### 5.1. TCP/IP통신 활용한 윈도우 프로그램 서버 생성
-![image](https://github.com/yschii/Dbgo/assets/135096712/15b59ec3-3973-4c70-bc25-4a524ba13308)
-https://github.com/yschii/Dbgo/blob/main/3.%20%ED%99%95%EC%9E%A51(%ED%8F%AC%EC%9D%B8%ED%8A%B8%20%EC%A0%9C%EB%8F%84%20%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC)/1.%20%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC%20%EC%A3%BC%EB%B0%A9(%EC%84%9C%EB%B2%84)/Form1.cs
+![image](https://github.com/yschii/Dbgo/assets/135096712/380a04f6-bc21-437d-9ea6-86ff407a7119)
+https://github.com/yschii/Dbgo/blob/main/3.%20%ED%99%95%EC%9E%A51(%ED%8F%AC%EC%9D%B8%ED%8A%B8%20%EC%A0%9C%EB%8F%84%20%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC)/1.%20%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC%20%EC%A3%BC%EB%B0%A9(%EC%84%9C%EB%B2%84)/MainForm.cs
 
 
 ### 5.2. 시리얼통신으로 아두이노와 연결. TCP/IP통신으로 윈도우 프로그램 서버와 연결. Mysql DB연동 클라이언트 생성
