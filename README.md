@@ -41,20 +41,20 @@ trial 폴더에서 > 실행프로그램 테스트
 <details>
 <summary><b>실행화면</b></summary>
 <div markdown="1">
-  
-![스크린샷 2023-10-17 231916](https://github.com/yschii/Dbgo/assets/135096712/b871d18d-57eb-4ad3-bbec-70522e29e1cf)
+
+![스크린샷 2023-10-17 231613](https://github.com/yschii/Dbgo/assets/135096712/75519f62-22cc-40a3-b354-3d935ec9a5e6)
 </br>
-![스크린샷 2023-10-17 231900](https://github.com/yschii/Dbgo/assets/135096712/14b218ef-f504-415f-8cfe-97666c7ee2c2)
+![스크린샷 2023-10-17 231735](https://github.com/yschii/Dbgo/assets/135096712/819f6431-58af-4832-a0e2-a195dfbf3aba)
 </br>
-![스크린샷 2023-10-17 231842](https://github.com/yschii/Dbgo/assets/135096712/6bcf8ba8-d565-489c-8980-0215fc143e13)
+![스크린샷 2023-10-17 231803](https://github.com/yschii/Dbgo/assets/135096712/88df2250-2be1-48a9-84bd-6adbdfa1a4db)
 </br>
-![스크린샷 2023-10-17 231821](https://github.com/yschii/Dbgo/assets/135096712/57ab6f3e-a9ef-48a7-bdc8-0dfa4f45fcfc)
+![스크린샷 2023-10-17 231821](https://github.com/yschii/Dbgo/assets/135096712/71b18692-96db-4bfb-907e-75ebd77d2900)
 </br>
-![스크린샷 2023-10-17 231803](https://github.com/yschii/Dbgo/assets/135096712/4fdcabca-68c9-40fb-a040-6488fb2dcc16)
+![스크린샷 2023-10-17 231842](https://github.com/yschii/Dbgo/assets/135096712/80d20bbe-d90c-4392-8d09-72387bc02681)
 </br>
-![스크린샷 2023-10-17 231735](https://github.com/yschii/Dbgo/assets/135096712/6196fa01-3f70-47f4-9ce5-fe5ccebba9fe)
+![스크린샷 2023-10-17 231900](https://github.com/yschii/Dbgo/assets/135096712/2f041627-34e4-4287-9ca6-962504dc7e34)
 </br>
-![스크린샷 2023-10-17 231613](https://github.com/yschii/Dbgo/assets/135096712/3938a7d2-6f65-466e-a73e-51c34d4e7c84)
+![스크린샷 2023-10-17 231916](https://github.com/yschii/Dbgo/assets/135096712/6d40a7e8-eb64-4859-8506-6efec0f3c3cb)
 
 </div>
 </details>
