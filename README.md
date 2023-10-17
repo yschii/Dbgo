@@ -33,7 +33,14 @@
 
 </br>
 
-## 3. ERD 설계
+
+
+## 프로그램 테스트
+trial > 실행프로그램 테스트
+
+
+
+## 3. ERD 설계(Entity Relationship Diagram)
 ![image](https://github.com/yschii/Dbgo/assets/135096712/3fa639a2-5f45-4031-b4fe-f6953188f9a2)
 
 
