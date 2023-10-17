@@ -62,7 +62,7 @@ trial > 실행프로그램 테스트
 
 
 ### 4.2. 아두이노 RFID모듈을 통한 카드 인식 및 http 통신으로 데이터 보내기기
-![image](https://github.com/yschii/Dbgo/assets/135096712/e2e20e66-99e8-4717-9d8f-c1cbef86f6ae)
+![image](https://github.com/yschii/Dbgo/assets/135096712/3cbbd4e1-a9e8-4723-98cb-aa6e167942d4)
 https://github.com/yschii/Dbgo/blob/main/1.%20rfid/memberCard_register/memberCard_register.ino
 
 
@@ -72,9 +72,11 @@ https://github.com/yschii/Dbgo/blob/main/1.%20rfid/memberCard_register/memberCar
 https://github.com/yschii/Dbgo/blob/main/2.%20php%2C%20mysql/register.php
 
 
+
 ### 4.4. Web에서 데이터 출력
 ![image](https://github.com/yschii/Dbgo/assets/135096712/6a8972d2-6544-494d-bb4b-c6666b758e14)
 https://github.com/yschii/Dbgo/blob/main/2.%20php%2C%20mysql/admin.php
+
 
 
 ### 4.5. 실시간 태그 인식으로 DB 구축
