@@ -7,7 +7,6 @@
 - 이메일: winstonys516@naver.com
 - 블로그: https://esoog.tistory.com
 - 깃헙: https://github.com/yschii
-- 서브 프로젝트: https://github.com/sagoheud/Library-Management/tree/cys
 
 </br>
 
