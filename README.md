@@ -28,12 +28,16 @@
   - Arduino D1 wifi
   - RFID-RC522
   - 능동부저
+#### 'etc'
+  - HTTP 통신
+  - TCP/IP 통신
+  - Invoke/ 스레드
 </br>
 
 
 
 ## 프로그램 테스트
-trial > 실행프로그램 테스트
+trial 폴더에서 > 실행프로그램 테스트
 </br>
 
 
@@ -133,7 +137,7 @@ https://github.com/yschii/Dbgo/blob/main/3.%20%ED%99%95%EC%9E%A51(%ED%8F%AC%EC%9
 
 
 
-## 6. 회고 
+## 7. 회고 
 - HTTP통신 GET과 POST 메서드 활용: https://esoog.tistory.com/entry/get-post-%EB%B0%A9%EC%8B%9D
   
 - PHP mysql 연동과 시큐리티 사용: https://github.com/yschii/Dbgo/blob/main/2.%20php%2C%20mysql/update.php
