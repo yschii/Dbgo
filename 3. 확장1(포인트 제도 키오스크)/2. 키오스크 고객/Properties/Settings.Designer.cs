@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace projectKiosk.Properties
+namespace Customer.Properties
 {
 
 

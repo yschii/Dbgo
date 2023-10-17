@@ -1,0 +1,94 @@
+D:\111\1. 키오스크 주방(서버)\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\111\1. 키오스크 주방(서버)\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+D:\111\1. 키오스크 주방(서버)\obj\Debug\Server.exe.config
+D:\111\1. 키오스크 주방(서버)\obj\Debug\Server.DashBoard.resources
+D:\111\1. 키오스크 주방(서버)\obj\Debug\Server.MainForm.resources
+D:\111\1. 키오스크 주방(서버)\obj\Debug\Server.Properties.Resources.resources
+D:\111\1. 키오스크 주방(서버)\obj\Debug\Server.csproj.GenerateResource.cache
+D:\111\1. 키오스크 주방(서버)\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\111\1. 키오스크 주방(서버)\bin\Debug\Server.exe.config
+D:\111\1. 키오스크 주방(서버)\bin\Debug\Server.exe
+D:\111\1. 키오스크 주방(서버)\bin\Debug\Server.pdb
+D:\111\1. 키오스크 주방(서버)\bin\Debug\Display.exe
+D:\111\1. 키오스크 주방(서버)\bin\Debug\Open.Nat.dll
+D:\111\1. 키오스크 주방(서버)\bin\Debug\MySql.Data.dll
+D:\111\1. 키오스크 주방(서버)\bin\Debug\Google.Protobuf.dll
+D:\111\1. 키오스크 주방(서버)\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\111\1. 키오스크 주방(서버)\bin\Debug\BouncyCastle.Crypto.dll
+D:\111\1. 키오스크 주방(서버)\bin\Debug\System.Memory.dll
+D:\111\1. 키오스크 주방(서버)\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\111\1. 키오스크 주방(서버)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\111\1. 키오스크 주방(서버)\bin\Debug\K4os.Compression.LZ4.dll
+D:\111\1. 키오스크 주방(서버)\bin\Debug\System.IO.Pipelines.dll
+D:\111\1. 키오스크 주방(서버)\bin\Debug\K4os.Hash.xxHash.dll
+D:\111\1. 키오스크 주방(서버)\bin\Debug\System.Numerics.Vectors.dll
+D:\111\1. 키오스크 주방(서버)\bin\Debug\System.Buffers.dll
+D:\111\1. 키오스크 주방(서버)\bin\Debug\Display.pdb
+D:\111\1. 키오스크 주방(서버)\bin\Debug\Display.exe.config
+D:\111\1. 키오스크 주방(서버)\bin\Debug\Open.Nat.xml
+D:\111\1. 키오스크 주방(서버)\bin\Debug\MySql.Data.xml
+D:\111\1. 키오스크 주방(서버)\bin\Debug\Google.Protobuf.pdb
+D:\111\1. 키오스크 주방(서버)\bin\Debug\Google.Protobuf.xml
+D:\111\1. 키오스크 주방(서버)\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\111\1. 키오스크 주방(서버)\bin\Debug\BouncyCastle.Crypto.xml
+D:\111\1. 키오스크 주방(서버)\bin\Debug\System.Memory.xml
+D:\111\1. 키오스크 주방(서버)\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\111\1. 키오스크 주방(서버)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\111\1. 키오스크 주방(서버)\bin\Debug\K4os.Compression.LZ4.xml
+D:\111\1. 키오스크 주방(서버)\bin\Debug\System.IO.Pipelines.xml
+D:\111\1. 키오스크 주방(서버)\bin\Debug\K4os.Hash.xxHash.xml
+D:\111\1. 키오스크 주방(서버)\bin\Debug\System.Numerics.Vectors.xml
+D:\111\1. 키오스크 주방(서버)\bin\Debug\System.Buffers.xml
+D:\111\1. 키오스크 주방(서버)\obj\Debug\Server.csproj.CopyComplete
+D:\111\1. 키오스크 주방(서버)\obj\Debug\Server.exe
+D:\111\1. 키오스크 주방(서버)\obj\Debug\Server.pdb
+D:\111\1. 키오스크 주방(서버)\bin\Debug\Customer.exe
+D:\111\1. 키오스크 주방(서버)\bin\Debug\Customer.pdb
+D:\111\1. 키오스크 주방(서버)\bin\Debug\Customer.exe.config
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\1. 키오스크 주방(서버)\bin\Debug\Server.exe.config
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\1. 키오스크 주방(서버)\bin\Debug\Server.exe
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\1. 키오스크 주방(서버)\bin\Debug\Server.pdb
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\1. 키오스크 주방(서버)\bin\Debug\Customer.exe
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\1. 키오스크 주방(서버)\bin\Debug\Display.exe
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\1. 키오스크 주방(서버)\bin\Debug\Open.Nat.dll
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\1. 키오스크 주방(서버)\bin\Debug\MySql.Data.dll
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\1. 키오스크 주방(서버)\bin\Debug\Google.Protobuf.dll
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\1. 키오스크 주방(서버)\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\1. 키오스크 주방(서버)\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\1. 키오스크 주방(서버)\bin\Debug\System.Memory.dll
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\1. 키오스크 주방(서버)\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\1. 키오스크 주방(서버)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\1. 키오스크 주방(서버)\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\1. 키오스크 주방(서버)\bin\Debug\System.IO.Pipelines.dll
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\1. 키오스크 주방(서버)\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\1. 키오스크 주방(서버)\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\1. 키오스크 주방(서버)\bin\Debug\System.Buffers.dll
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\1. 키오스크 주방(서버)\bin\Debug\Customer.pdb
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\1. 키오스크 주방(서버)\bin\Debug\Customer.exe.config
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\1. 키오스크 주방(서버)\bin\Debug\Display.pdb
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\1. 키오스크 주방(서버)\bin\Debug\Display.exe.config
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\1. 키오스크 주방(서버)\bin\Debug\Open.Nat.xml
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\1. 키오스크 주방(서버)\bin\Debug\MySql.Data.xml
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\1. 키오스크 주방(서버)\bin\Debug\Google.Protobuf.pdb
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\1. 키오스크 주방(서버)\bin\Debug\Google.Protobuf.xml
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\1. 키오스크 주방(서버)\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\1. 키오스크 주방(서버)\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\1. 키오스크 주방(서버)\bin\Debug\System.Memory.xml
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\1. 키오스크 주방(서버)\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\1. 키오스크 주방(서버)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\1. 키오스크 주방(서버)\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\1. 키오스크 주방(서버)\bin\Debug\System.IO.Pipelines.xml
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\1. 키오스크 주방(서버)\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\1. 키오스크 주방(서버)\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\1. 키오스크 주방(서버)\bin\Debug\System.Buffers.xml
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\1. 키오스크 주방(서버)\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\1. 키오스크 주방(서버)\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\1. 키오스크 주방(서버)\obj\Debug\Server.exe.config
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\1. 키오스크 주방(서버)\obj\Debug\Server.DashBoard.resources
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\1. 키오스크 주방(서버)\obj\Debug\Server.MainForm.resources
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\1. 키오스크 주방(서버)\obj\Debug\Server.Properties.Resources.resources
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\1. 키오스크 주방(서버)\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\1. 키오스크 주방(서버)\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\1. 키오스크 주방(서버)\obj\Debug\Server.csproj.CopyComplete
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\1. 키오스크 주방(서버)\obj\Debug\Server.exe
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\1. 키오스크 주방(서버)\obj\Debug\Server.pdb

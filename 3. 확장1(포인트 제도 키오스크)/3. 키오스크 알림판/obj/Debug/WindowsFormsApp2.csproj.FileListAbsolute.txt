@@ -1,33 +1,33 @@
-C:\Users\winst\Documents\GitHub\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
-C:\Users\winst\Documents\GitHub\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
-C:\Users\winst\Documents\GitHub\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
-C:\Users\winst\Documents\GitHub\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
-C:\Users\winst\Documents\GitHub\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
-C:\Users\winst\Documents\GitHub\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
-C:\Users\winst\Documents\GitHub\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
-C:\Users\winst\Documents\GitHub\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
-C:\Users\winst\Documents\GitHub\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
-C:\Users\winst\Documents\GitHub\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
-C:\Users\winst\Documents\GitHub\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
-C:\Users\winst\Documents\project\Dbgo\3. 키오스크 전광판\bin\Debug\WindowsFormsApp2.exe.config
-C:\Users\winst\Documents\project\Dbgo\3. 키오스크 전광판\bin\Debug\WindowsFormsApp2.exe
-C:\Users\winst\Documents\project\Dbgo\3. 키오스크 전광판\bin\Debug\WindowsFormsApp2.pdb
-C:\Users\winst\Documents\project\Dbgo\3. 키오스크 전광판\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
-C:\Users\winst\Documents\project\Dbgo\3. 키오스크 전광판\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
-C:\Users\winst\Documents\project\Dbgo\3. 키오스크 전광판\obj\Debug\WindowsFormsApp2.Form1.resources
-C:\Users\winst\Documents\project\Dbgo\3. 키오스크 전광판\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
-C:\Users\winst\Documents\project\Dbgo\3. 키오스크 전광판\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
-C:\Users\winst\Documents\project\Dbgo\3. 키오스크 전광판\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
-C:\Users\winst\Documents\project\Dbgo\3. 키오스크 전광판\obj\Debug\WindowsFormsApp2.exe
-C:\Users\winst\Documents\project\Dbgo\3. 키오스크 전광판\obj\Debug\WindowsFormsApp2.pdb
-C:\Users\winst\Documents\project\Dbgo\3. 키오스크 알림판\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
-C:\Users\winst\Documents\project\Dbgo\3. 키오스크 알림판\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
-C:\Users\winst\Documents\project\Dbgo\3. 키오스크 알림판\obj\Debug\WindowsFormsApp2.Form1.resources
-C:\Users\winst\Documents\project\Dbgo\3. 키오스크 알림판\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
-C:\Users\winst\Documents\project\Dbgo\3. 키오스크 알림판\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
-C:\Users\winst\Documents\project\Dbgo\3. 키오스크 알림판\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
-C:\Users\winst\Documents\project\Dbgo\3. 키오스크 알림판\obj\Debug\WindowsFormsApp2.exe
-C:\Users\winst\Documents\project\Dbgo\3. 키오스크 알림판\obj\Debug\WindowsFormsApp2.pdb
-C:\Users\winst\Documents\project\Dbgo\3. 키오스크 알림판\bin\Debug\WindowsFormsApp2.exe.config
-C:\Users\winst\Documents\project\Dbgo\3. 키오스크 알림판\bin\Debug\WindowsFormsApp2.exe
-C:\Users\winst\Documents\project\Dbgo\3. 키오스크 알림판\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\winst\Documents\GitHub\Customer\bin\Debug\Customer.exe.config
+C:\Users\winst\Documents\GitHub\Customer\bin\Debug\Customer.exe
+C:\Users\winst\Documents\GitHub\Customer\bin\Debug\Customer.pdb
+C:\Users\winst\Documents\GitHub\Customer\obj\Debug\Customer.csproj.AssemblyReference.cache
+C:\Users\winst\Documents\GitHub\Customer\obj\Debug\Customer.csproj.SuggestedBindingRedirects.cache
+C:\Users\winst\Documents\GitHub\Customer\obj\Debug\Customer.Form1.resources
+C:\Users\winst\Documents\GitHub\Customer\obj\Debug\Customer.Properties.Resources.resources
+C:\Users\winst\Documents\GitHub\Customer\obj\Debug\Customer.csproj.GenerateResource.cache
+C:\Users\winst\Documents\GitHub\Customer\obj\Debug\Customer.csproj.CoreCompileInputs.cache
+C:\Users\winst\Documents\GitHub\Customer\obj\Debug\Customer.exe
+C:\Users\winst\Documents\GitHub\Customer\obj\Debug\Customer.pdb
+C:\Users\winst\Documents\project\Dbgo\3. 키오스크 전광판\bin\Debug\Customer.exe.config
+C:\Users\winst\Documents\project\Dbgo\3. 키오스크 전광판\bin\Debug\Customer.exe
+C:\Users\winst\Documents\project\Dbgo\3. 키오스크 전광판\bin\Debug\Customer.pdb
+C:\Users\winst\Documents\project\Dbgo\3. 키오스크 전광판\obj\Debug\Customer.csproj.AssemblyReference.cache
+C:\Users\winst\Documents\project\Dbgo\3. 키오스크 전광판\obj\Debug\Customer.csproj.SuggestedBindingRedirects.cache
+C:\Users\winst\Documents\project\Dbgo\3. 키오스크 전광판\obj\Debug\Customer.Form1.resources
+C:\Users\winst\Documents\project\Dbgo\3. 키오스크 전광판\obj\Debug\Customer.Properties.Resources.resources
+C:\Users\winst\Documents\project\Dbgo\3. 키오스크 전광판\obj\Debug\Customer.csproj.GenerateResource.cache
+C:\Users\winst\Documents\project\Dbgo\3. 키오스크 전광판\obj\Debug\Customer.csproj.CoreCompileInputs.cache
+C:\Users\winst\Documents\project\Dbgo\3. 키오스크 전광판\obj\Debug\Customer.exe
+C:\Users\winst\Documents\project\Dbgo\3. 키오스크 전광판\obj\Debug\Customer.pdb
+C:\Users\winst\Documents\project\Dbgo\3. 키오스크 알림판\obj\Debug\Customer.csproj.AssemblyReference.cache
+C:\Users\winst\Documents\project\Dbgo\3. 키오스크 알림판\obj\Debug\Customer.csproj.SuggestedBindingRedirects.cache
+C:\Users\winst\Documents\project\Dbgo\3. 키오스크 알림판\obj\Debug\Customer.Form1.resources
+C:\Users\winst\Documents\project\Dbgo\3. 키오스크 알림판\obj\Debug\Customer.Properties.Resources.resources
+C:\Users\winst\Documents\project\Dbgo\3. 키오스크 알림판\obj\Debug\Customer.csproj.GenerateResource.cache
+C:\Users\winst\Documents\project\Dbgo\3. 키오스크 알림판\obj\Debug\Customer.csproj.CoreCompileInputs.cache
+C:\Users\winst\Documents\project\Dbgo\3. 키오스크 알림판\obj\Debug\Customer.exe
+C:\Users\winst\Documents\project\Dbgo\3. 키오스크 알림판\obj\Debug\Customer.pdb
+C:\Users\winst\Documents\project\Dbgo\3. 키오스크 알림판\bin\Debug\Customer.exe.config
+C:\Users\winst\Documents\project\Dbgo\3. 키오스크 알림판\bin\Debug\Customer.exe
+C:\Users\winst\Documents\project\Dbgo\3. 키오스크 알림판\bin\Debug\Customer.pdb

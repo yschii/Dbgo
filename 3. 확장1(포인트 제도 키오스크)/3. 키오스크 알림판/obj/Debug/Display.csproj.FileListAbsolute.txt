@@ -1,0 +1,20 @@
+D:\111\3. 키오스크 알림판\bin\Debug\Display.exe.config
+D:\111\3. 키오스크 알림판\bin\Debug\Display.exe
+D:\111\3. 키오스크 알림판\bin\Debug\Display.pdb
+D:\111\3. 키오스크 알림판\obj\Debug\Display.csproj.AssemblyReference.cache
+D:\111\3. 키오스크 알림판\obj\Debug\Display.Notes.resources
+D:\111\3. 키오스크 알림판\obj\Debug\Display.Properties.Resources.resources
+D:\111\3. 키오스크 알림판\obj\Debug\Display.csproj.GenerateResource.cache
+D:\111\3. 키오스크 알림판\obj\Debug\Display.csproj.CoreCompileInputs.cache
+D:\111\3. 키오스크 알림판\obj\Debug\Display.exe
+D:\111\3. 키오스크 알림판\obj\Debug\Display.pdb
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\3. 키오스크 알림판\bin\Debug\Display.exe.config
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\3. 키오스크 알림판\bin\Debug\Display.exe
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\3. 키오스크 알림판\bin\Debug\Display.pdb
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\3. 키오스크 알림판\obj\Debug\Display.csproj.AssemblyReference.cache
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\3. 키오스크 알림판\obj\Debug\Display.Notes.resources
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\3. 키오스크 알림판\obj\Debug\Display.Properties.Resources.resources
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\3. 키오스크 알림판\obj\Debug\Display.csproj.GenerateResource.cache
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\3. 키오스크 알림판\obj\Debug\Display.csproj.CoreCompileInputs.cache
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\3. 키오스크 알림판\obj\Debug\Display.exe
+C:\Users\winst\Documents\project\Dbgo\3. 확장1(포인트 제도 키오스크)\3. 키오스크 알림판\obj\Debug\Display.pdb
