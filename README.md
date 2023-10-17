@@ -38,6 +38,18 @@
 
 ## 프로그램 테스트
 trial 폴더에서 > 실행프로그램 테스트
+<details>
+<summary><b>실행화면</b></summary>
+<div markdown="1">
+![스크린샷 2023-10-17 231613](https://github.com/yschii/Dbgo/assets/135096712/044140f8-5239-49ee-ae9c-a77a955217bc)
+![스크린샷 2023-10-17 231735](https://github.com/yschii/Dbgo/assets/135096712/5ec47f7d-3994-41fb-8161-23b3a216df0d)
+![스크린샷 2023-10-17 231803](https://github.com/yschii/Dbgo/assets/135096712/df882be1-086e-4670-b2ad-937c40fca228)
+![스크린샷 2023-10-17 231821](https://github.com/yschii/Dbgo/assets/135096712/ca0ab2f4-f61d-4d86-bce4-d2562c7e57b1)
+![스크린샷 2023-10-17 231842](https://github.com/yschii/Dbgo/assets/135096712/79807f47-9daf-45ab-b262-b336888205c0)
+![스크린샷 2023-10-17 231900](https://github.com/yschii/Dbgo/assets/135096712/22739041-94f1-43be-9d5f-1822f00dba53)
+![스크린샷 2023-10-17 231916](https://github.com/yschii/Dbgo/assets/135096712/a3eebb2b-ada6-4912-a458-01995fd7aed4)
+</div>
+</details>
 </br>
 
 
