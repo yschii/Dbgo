@@ -23,6 +23,7 @@
   - .Net Framework 4.7.2
   - Php 5.6
   - MySQL 5.1.73
+  - C++
 #### `Front-end`
   - Css, JavaScript
 #### `Arduino 및 모듈`
