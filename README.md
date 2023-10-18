@@ -36,22 +36,6 @@
   - Invoke/ 스레드
 </br>
 
-## 확장 프로그램
-![스크린샷 2023-10-17 231613](https://github.com/yschii/Dbgo/assets/135096712/75519f62-22cc-40a3-b354-3d935ec9a5e6)
-</br>
-![스크린샷 2023-10-17 231735](https://github.com/yschii/Dbgo/assets/135096712/819f6431-58af-4832-a0e2-a195dfbf3aba)
-</br>
-![스크린샷 2023-10-17 231803](https://github.com/yschii/Dbgo/assets/135096712/88df2250-2be1-48a9-84bd-6adbdfa1a4db)
-</br>
-![스크린샷 2023-10-17 231821](https://github.com/yschii/Dbgo/assets/135096712/71b18692-96db-4bfb-907e-75ebd77d2900)
-</br>
-![스크린샷 2023-10-17 231842](https://github.com/yschii/Dbgo/assets/135096712/80d20bbe-d90c-4392-8d09-72387bc02681)
-</br>
-![스크린샷 2023-10-17 231900](https://github.com/yschii/Dbgo/assets/135096712/2f041627-34e4-4287-9ca6-962504dc7e34)
-</br>
-![스크린샷 2023-10-17 231916](https://github.com/yschii/Dbgo/assets/135096712/6d40a7e8-eb64-4859-8506-6efec0f3c3cb)
-</br>
-
 ## 3. ERD 설계(Entity Relationship Diagram)
 ![image](https://github.com/yschii/Dbgo/assets/135096712/3fa639a2-5f45-4031-b4fe-f6953188f9a2)
 </br>
@@ -113,6 +97,22 @@ https://github.com/yschii/Dbgo/blob/main/3.%20%ED%99%95%EC%9E%A51(%ED%8F%AC%EC%9
 ![image](https://github.com/yschii/Dbgo/assets/135096712/c1c4fce7-d7f4-47fc-b823-8f50be83f650)
 </br>
 https://github.com/yschii/Dbgo/blob/main/3.%20%ED%99%95%EC%9E%A51(%ED%8F%AC%EC%9D%B8%ED%8A%B8%20%EC%A0%9C%EB%8F%84%20%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC)/3.%20%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC%20%EC%95%8C%EB%A6%BC%ED%8C%90/Notes.cs
+</br>
+
+## 확장 프로그램 실행 화면
+![스크린샷 2023-10-17 231613](https://github.com/yschii/Dbgo/assets/135096712/75519f62-22cc-40a3-b354-3d935ec9a5e6)
+</br>
+![스크린샷 2023-10-17 231735](https://github.com/yschii/Dbgo/assets/135096712/819f6431-58af-4832-a0e2-a195dfbf3aba)
+</br>
+![스크린샷 2023-10-17 231803](https://github.com/yschii/Dbgo/assets/135096712/88df2250-2be1-48a9-84bd-6adbdfa1a4db)
+</br>
+![스크린샷 2023-10-17 231821](https://github.com/yschii/Dbgo/assets/135096712/71b18692-96db-4bfb-907e-75ebd77d2900)
+</br>
+![스크린샷 2023-10-17 231842](https://github.com/yschii/Dbgo/assets/135096712/80d20bbe-d90c-4392-8d09-72387bc02681)
+</br>
+![스크린샷 2023-10-17 231900](https://github.com/yschii/Dbgo/assets/135096712/2f041627-34e4-4287-9ca6-962504dc7e34)
+</br>
+![스크린샷 2023-10-17 231916](https://github.com/yschii/Dbgo/assets/135096712/6d40a7e8-eb64-4859-8506-6efec0f3c3cb)
 </br>
 
 ## 6. 트러블 슈팅
