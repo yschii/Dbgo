@@ -60,13 +60,13 @@ https://github.com/yschii/Dbgo/blob/main/1.%20rfid/memberCard_register/memberCar
 </br>
 
 ### 4.3. Php 서버 사이드 측에서 데이터 로직 구현 및 DB에 데이터 저장
-![image](https://github.com/yschii/Dbgo/assets/135096712/856d5496-187c-497d-abd6-56d12991de57)
+![image](https://github.com/yschii/Dbgo/assets/135096712/c8c41c92-97ec-448b-b6e2-ebfd47c12564)
 </br>
 https://github.com/yschii/Dbgo/blob/main/2.%20php%2C%20mysql/register.php
 </br>
 
 ### 4.4. Web에서 데이터 출력
-![image](https://github.com/yschii/Dbgo/assets/135096712/6a8972d2-6544-494d-bb4b-c6666b758e14)
+![image](https://github.com/yschii/Dbgo/assets/135096712/9739fa31-ca9a-4b6d-b072-1334b84207aa)
 https://github.com/yschii/Dbgo/blob/main/2.%20php%2C%20mysql/admin.php
 </br>
 
